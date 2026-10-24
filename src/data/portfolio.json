@@ -1,0 +1,737 @@
+{
+  "profile": {
+    "name": "Yemane Gebru",
+    "shortName": "Yemane Gebru",
+    "title": "AI Engineer • Full Stack Developer • Data Engineer",
+    "tagline": "I design and build intelligent AI applications, scalable backend and frontend systems, and modern web platforms using Python, FastAPI, Next.js,Nodejs,Spring boot,Vuejs,Angularjs,Laravel,Php ,React, and Machine Learning. Passionate about Data Engineering, LLMs, and Cloud Technologies.",
+    "email": "gebruyemane14@gmail.com",
+    "phone": "+447553275574",
+    "location": "London, United kingdom",
+    "availability": "Open to AI • Full Stack • Data Roles",
+    "responseTime": "Typically responds within 24 hours to collaboration and hiring inquiries.",
+    "resumeUrl": "gebru-yemane-cv.docx"
+  },
+  "nav": [
+    {
+      "name": "Home",
+      "id": "home"
+    },
+    {
+      "name": "Projects",
+      "id": "projects"
+    },
+    {
+      "name": "About",
+      "id": "about"
+    },
+    {
+      "name": "Journey",
+      "id": "journey"
+    },
+    {
+      "name": "Skills",
+      "id": "skill"
+    },
+    {
+      "name": "Hobby",
+      "id": "hobby"
+    },
+    {
+      "name": "Motivations",
+      "id": "motivations"
+    },
+    {
+      "name": "Contact",
+      "id": "contact"
+    }
+  ],
+  "home": {
+    "technologies": [
+      "Nodejs",
+      "Spring boot",
+      "Laravel",
+      "Python",
+      "FastAPI",
+      "Next.js",
+      "React",
+      "Machine Learning",
+      "Docker",
+      "Php",
+      "Vue.js",
+      "MongoDB",
+      "GraphQL",
+      "Swagger / OpenAPI",
+      "GitLab CI/CD"
+    ],
+    "highlights": [
+      "🏠 House Price Prediction Platform using AI",
+      "🤖 Machine Learning & Deep Learning Projects",
+      "⚡ FastAPI REST APIs with PostgreSQL",
+      "📊 Data Engineering & ETL Pipelines",
+      "☁️ Docker, GitHub & Cloud Deployment"
+    ]
+  },
+  "projects": [
+    {
+      "title": "House Price Prediction System | AI-Powered Property Insights",
+      "category": "AI",
+      "status": "Featured AI Platform",
+      "tech": [
+        "Next.js",
+        "React",
+        "Python",
+        "FastAPI",
+        "Machine Learning",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker",
+        "Predictive Analytics",
+        "Responsive UI"
+      ],
+      "description": "Developed an AI-powered property analytics platform designed to help users explore estimated UK house prices. A Next.js interface captures property information, a FastAPI backend connects the application to machine-learning predictions, and a PostgreSQL-backed workflow supports structured data handling and actionable property insights.",
+      "highlights": [
+        "Predictive workflow: users enter property information through the web interface and receive an estimated price from the machine-learning service.",
+        "AI & analytics: presents prediction results alongside an interactive dashboard to make property-price insights easier to understand.",
+        "Backend integration: connects the Next.js frontend to Python/FastAPI REST endpoints for structured requests and responses.",
+        "Data management: uses PostgreSQL to support application data workflows and organized backend architecture.",
+        "User experience: brings property inputs, prediction results and analytics together in a responsive interface.",
+        "Deployment readiness: uses Docker to support consistent setup and portable application deployment.",
+        "Engineering focus: separates the frontend, API, prediction logic and data layer for maintainability."
+      ],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/Yemane14/ai-house-price-prediction-system",
+      "readMoreUrl": "#contact",
+      "previewLabel": "House Price Prediction",
+      "featured": false
+    },
+    {
+      "title": "Adeyspices & Haipetland | AI-Enabled E-commerce Webshops",
+      "category": "Full Stack",
+      "status": "Featured Commerce Platforms",
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Agentic AI",
+        "API-Based Agent Actions",
+        "Swagger",
+        "REST APIs",
+        "WebSockets",
+        "Stripe",
+        "PayPal",
+        "Docker",
+        "GitLab CI/CD",
+        "Flutter",
+        "Dart"
+      ],
+      "description": "Architected and delivered modern, responsive e-commerce storefronts and administrative dashboards for Adeyspices and Haipetland—bringing together secure commerce APIs, intelligent agent-assisted workflows, real-time communication, and dependable cloud-ready delivery.",
+      "highlights": [
+        "Agentic AI & automation: integrated AI-assisted backend workflows, defined tools and API-based agent actions connected to commerce services; exploring RAG and LLM orchestration.",
+        "API architecture & quality: designed RESTful services and used Swagger for API documentation and testing, with an emphasis on reliability and maintainability.",
+        "Real-time engagement: integrated WebSockets to support live chat and responsive customer interactions.",
+        "Secure commerce: developed Stripe and PayPal payment integrations and administration workflows.",
+        "Experience-led UI/UX: delivered professional, mobile-responsive Next.js/React storefronts and dashboards.",
+        "Agile leadership: coordinated delivery with Trello, Scrum practices, reviews and iterative milestones.",
+        "DevOps & deployment: automated delivery through GitLab CI/CD and used Docker to support consistent deployment.",
+        "Cross-platform engineering: built Flutter/Dart mobile application features to extend accessibility."
+      ],
+      "liveUrl": "https://adey-spices-dashboard.netlify.app/#/",
+      "liveDemos": [
+        {
+          "label": "Adeyspices Dashboard",
+          "url": "https://adey-spices-dashboard.netlify.app/#/"
+        },
+        {
+          "label": "Haipetland Webshop",
+          "url": "https://haipetland-webshop.netlify.app/"
+        }
+      ],
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "AI-Powered Commerce",
+      "featured": false
+    },
+    {
+      "title": "Educational Evaluation & Suggestion Box Platforms",
+      "category": "Backend",
+      "status": "Professional Project",
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "JWT",
+        "React",
+        "Next.js",
+        "Agentic AI"
+      ],
+      "description": "Education-focused evaluation and suggestion-management platforms powered by Spring Boot backend services, secure API access and intuitive administration interfaces.",
+      "highlights": [
+        "Designed and implemented Java/Spring Boot backend services for educational evaluation and suggestion workflows",
+        "Developed secure REST APIs and administrative functionality for structured feedback and review",
+        "Built responsive user-facing interfaces and supported API-connected workflow automation"
+      ],
+      "liveUrl": "#",
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "Education Platforms",
+      "featured": false
+    },
+    {
+      "title": "OTT Streaming Platform",
+      "category": "Backend",
+      "status": "Professional Project",
+      "tech": [
+        "Node.js",
+        "Docker",
+        "AWS ECS",
+        "AWS Fargate"
+      ],
+      "description": "Backend services supporting live and on-demand media delivery across devices.",
+      "highlights": [
+        "Built Node.js services for streaming applications",
+        "Containerized services with Docker and supported AWS ECS/Fargate deployment",
+        "Supported streaming and multi-device delivery"
+      ],
+      "liveUrl": "#",
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "Media Streaming",
+      "featured": false
+    },
+    {
+      "title": "College Human Resource & Inventory Management System",
+      "category": "Full Stack",
+      "status": "Professional Project",
+      "tech": [
+        "Laravel",
+        "PHP",
+        "Vue.js",
+        "REST APIs",
+        "GraphQL",
+        "Swagger / OpenAPI",
+        "API Testing",
+        "MySQL"
+      ],
+      "description": "Engineered an integrated college administration solution connecting human-resource operations with inventory management. Built with Laravel and Vue.js, the system brings essential administrative workflows into a cohesive, responsive experience, with an emphasis on clean API contracts, maintainable architecture and dependable data handling.",
+      "highlights": [
+        "Unified college HR and inventory workflows in one application, simplifying how administrative teams access and manage operational information.",
+        "Developed Laravel/PHP backend services and Vue.js interfaces with a focus on readable code, modular components and responsive user experiences.",
+        "Applied RESTful API design principles and GraphQL-oriented API capabilities to support structured access to application data.",
+        "Used Swagger / OpenAPI documentation and API testing practices to clarify endpoints, validate integrations and support reliable maintenance.",
+        "Emphasized input validation, controlled data access, clear error handling and reusable application logic."
+      ],
+      "liveUrl": "#",
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "College HR & Inventory",
+      "featured": false
+    },
+    {
+      "title": "Court Case Management & Decision-Support System",
+      "category": "Full Stack",
+      "status": "Professional Project",
+      "tech": [
+        "Laravel",
+        "PHP",
+        "Vue.js",
+        "REST APIs",
+        "GraphQL",
+        "Swagger / OpenAPI",
+        "API Testing",
+        "Role-Based Access",
+        "MySQL"
+      ],
+      "description": "Developed a court-focused digital case-management platform using Laravel/PHP and Vue.js to simplify administrative workflows, organize case information and help court personnel access relevant records for timely, informed decisions. Designed to support human decision-making—not replace judicial judgment—with an emphasis on clarity, accountability and reliable API integration.",
+      "highlights": [
+        "Case workflow: structured the management and retrieval of court records and case information to streamline day-to-day administration.",
+        "Decision support: organized case details for review by authorized personnel while preserving human responsibility for judicial decisions.",
+        "API engineering: developed Laravel-based RESTful services and GraphQL interfaces for flexible, structured data access.",
+        "Swagger & testing: incorporated Swagger/OpenAPI documentation and API testing practices to improve integration clarity and maintainability.",
+        "Accessible interfaces: built responsive Vue.js screens to help staff navigate records and workflows.",
+        "Security-minded design: emphasized authenticated access, role-aware workflows, input validation and dependable handling of sensitive information."
+      ],
+      "liveUrl": "#",
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "Court Case Management",
+      "featured": false
+    },
+    {
+      "title": "Digital Employee Records Management & Java Swing ID Card Generator",
+      "category": "Full Stack",
+      "status": "Professional Project",
+      "tech": [
+        "Node.js",
+        "React",
+        "Next.js",
+        "JWT",
+        "REST APIs",
+        "Java",
+        "Swing",
+        "Desktop Applications"
+      ],
+      "description": "Developed a digital employee records management system and a dedicated Java Swing desktop application to streamline employee ID card creation and issuance.",
+      "highlights": [
+        "Built authenticated employee record workflows using Node.js APIs and React/Next.js interfaces",
+        "Delivered an employee records dashboard for managing digital staff information",
+        "Created a Java Swing desktop ID Card Generator to streamline employee ID issuance and reduce repetitive manual work"
+      ],
+      "liveUrl": "https://rems-dashboard.netlify.app/#/",
+      "githubUrl": "",
+      "readMoreUrl": "#contact",
+      "previewLabel": "Employee Management",
+      "featured": false,
+      "liveDemos": [
+        {
+          "label": "Employee Records Dashboard",
+          "url": "https://rems-dashboard.netlify.app/#/"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "percent": 92,
+      "color": "from-cyan-400 to-blue-500"
+    },
+    {
+      "name": "JavaScript",
+      "percent": 88,
+      "color": "from-yellow-400 to-orange-500"
+    },
+    {
+      "name": "Java",
+      "percent": 85,
+      "color": "from-red-400 to-orange-500"
+    },
+    {
+      "name": "SQL",
+      "percent": 90,
+      "color": "from-indigo-400 to-purple-500"
+    },
+    {
+      "name": "Machine Learning",
+      "percent": 88,
+      "color": "from-emerald-400 to-cyan-500"
+    },
+    {
+      "name": "Deep Learning",
+      "percent": 80,
+      "color": "from-violet-400 to-fuchsia-500"
+    },
+    {
+      "name": "FastAPI",
+      "percent": 90,
+      "color": "from-teal-400 to-cyan-500"
+    },
+    {
+      "name": "Scikit-learn",
+      "percent": 88,
+      "color": "from-green-400 to-emerald-500"
+    },
+    {
+      "name": "Pandas / NumPy",
+      "percent": 90,
+      "color": "from-sky-400 to-blue-500"
+    },
+    {
+      "name": "Apache Spark",
+      "percent": 75,
+      "color": "from-orange-400 to-amber-500"
+    },
+    {
+      "name": "PySpark",
+      "percent": 78,
+      "color": "from-rose-400 to-pink-500"
+    },
+    {
+      "name": "Kafka",
+      "percent": 70,
+      "color": "from-purple-400 to-indigo-500"
+    },
+    {
+      "name": "Airflow",
+      "percent": 72,
+      "color": "from-slate-400 to-slate-600"
+    },
+    {
+      "name": "Docker",
+      "percent": 80,
+      "color": "from-cyan-400 to-sky-500"
+    },
+    {
+      "name": "React",
+      "percent": 85,
+      "color": "from-blue-400 to-cyan-500"
+    },
+    {
+      "name": "Next.js",
+      "percent": 82,
+      "color": "from-slate-400 to-slate-600"
+    },
+    {
+      "name": "TailwindCSS",
+      "percent": 85,
+      "color": "from-teal-400 to-cyan-500"
+    },
+    {
+      "name": "REST APIs",
+      "percent": 92,
+      "color": "from-fuchsia-400 to-purple-500"
+    },
+    {
+      "name": "PostgreSQL",
+      "percent": 85,
+      "color": "from-blue-500 to-indigo-500"
+    },
+    {
+      "name": "Firebase",
+      "percent": 82,
+      "color": "from-yellow-400 to-orange-500"
+    },
+    {
+      "name": "Git",
+      "percent": 85,
+      "color": "from-orange-400 to-red-500"
+    },
+    {
+      "name": "Linux",
+      "percent": 80,
+      "color": "from-blue-400 to-slate-500"
+    },
+    {
+      "name": "Flutter",
+      "percent": 75,
+      "color": "from-indigo-400 to-purple-500"
+    },
+    {
+      "name": "Android",
+      "percent": 80,
+      "color": "from-green-400 to-emerald-500"
+    },
+    {
+      "name": "Node.js",
+      "percent": 80,
+      "color": "from-green-400 to-emerald-500"
+    },
+    {
+      "name": "TypeScript",
+      "percent": 80,
+      "color": "from-blue-400 to-indigo-500"
+    },
+    {
+      "name": "GraphQL",
+      "percent": 80,
+      "color": "from-pink-400 to-fuchsia-500"
+    },
+    {
+      "name": "WebSockets",
+      "percent": 80,
+      "color": "from-cyan-400 to-teal-500"
+    },
+    {
+      "name": "JWT / OAuth",
+      "percent": 80,
+      "color": "from-violet-400 to-purple-500"
+    },
+    {
+      "name": "AWS",
+      "percent": 80,
+      "color": "from-orange-400 to-yellow-500"
+    },
+    {
+      "name": "GitLab CI/CD",
+      "percent": 80,
+      "color": "from-orange-400 to-red-500"
+    },
+    {
+      "name": "MongoDB",
+      "percent": 80,
+      "color": "from-green-400 to-teal-500"
+    },
+    {
+      "name": "MySQL",
+      "percent": 80,
+      "color": "from-blue-400 to-cyan-500"
+    },
+    {
+      "name": "Stripe / PayPal",
+      "percent": 80,
+      "color": "from-indigo-400 to-blue-500"
+    },
+    {
+      "name": "Agentic AI Integration",
+      "percent": 80,
+      "color": "from-purple-400 to-pink-500"
+    },
+    {
+      "name": "REST / GraphQL APIs",
+      "percent": 80,
+      "color": "from-fuchsia-400 to-purple-500"
+    },
+    {
+      "name": "Spring Boot",
+      "percent": 80,
+      "color": "from-green-400 to-emerald-500"
+    },
+    {
+      "name": "Swagger / OpenAPI",
+      "percent": 80,
+      "color": "from-emerald-400 to-teal-500"
+    },
+    {
+      "name": "Java Swing",
+      "percent": 80,
+      "color": "from-orange-400 to-red-500"
+    },
+    {
+      "name": "Dart",
+      "percent": 80,
+      "color": "from-blue-400 to-cyan-500"
+    },
+    {
+      "name": "Trello / Scrum",
+      "percent": 80,
+      "color": "from-sky-400 to-blue-500"
+    },
+    {
+      "name": "API-Based Agent Actions",
+      "percent": 80,
+      "color": "from-purple-400 to-pink-500"
+    },
+    {
+      "name": "AI-Assisted Workflows",
+      "percent": 80,
+      "color": "from-violet-400 to-indigo-500"
+    },
+    {
+      "name": "Vue.js",
+      "percent": 80,
+      "color": "from-sky-400 to-indigo-500"
+    },
+    {
+      "name": "CI/CD Pipelines",
+      "percent": 80,
+      "color": "from-sky-400 to-indigo-500"
+    },
+    {
+      "name": "Laravel",
+      "percent": 80,
+      "color": "from-sky-400 to-indigo-500"
+    }
+  ],
+  "about": {
+    "bio": "Senior full-stack and backend engineer with 8+ years of experience delivering scalable commerce platforms, secure APIs and cloud-ready applications. I specialize in Node.js/TypeScript, React/Next.js, Java/Spring Boot, API design and agentic AI integration—connecting practical automation with reliable software engineering.",
+    "education": {
+      "degree": "Masters degree in computer science with software engineering",
+      "school": "Roehampton University • Graduated 2025"
+    },
+    "whatIDo": [
+      "Scalable Node.js/TypeScript & Spring Boot backend engineering",
+      "AI-assisted workflows, tool definitions & API-based agent actions",
+      "Responsive Next.js/React e-commerce experiences",
+      "Swagger-documented REST APIs, WebSockets & payment integrations",
+      "Docker, AWS & GitLab CI/CD delivery"
+    ],
+    "strengths": [
+      "Software architecture & API design",
+      "Agentic AI integration and backend automation",
+      "Secure commerce and payment workflows",
+      "Swagger / OpenAPI testing and documentation",
+      "Real-time WebSocket functionality",
+      "Scrum, Trello & technical leadership"
+    ],
+    "glance": [
+      {
+        "label": "Graduated",
+        "value": "2025",
+        "color": "from-blue-100 to-blue-200 text-blue-800"
+      },
+      {
+        "label": "University",
+        "value": "Roehampton Univ.",
+        "color": "from-green-100 to-green-200 text-green-800"
+      },
+      {
+        "label": "Focus",
+        "value": "AI • Data • Web",
+        "color": "from-yellow-100 to-yellow-200 text-yellow-800"
+      },
+      {
+        "label": "Based",
+        "value": "United kingdom",
+        "color": "from-purple-100 to-purple-200 text-purple-800"
+      }
+    ],
+    "certifications": [
+      "Information Technology — Fnan Institute Technology (Sep 2023 – Jun 2024; honours)",
+      "Diploma in E-Commerce Webshop Development — Alison (Aug 2024 – Jun 2025)",
+      "Advanced Mobile Application Development — Alison (Jan 2025 – Mar 2025)",
+      "Scrum Master Certification — The Knowledge Academy (Mar 2025 – May 2025)"
+    ]
+  },
+  "journey": {
+    "milestones": [
+      {
+        "year": "Apr 2018 – Jan 2020",
+        "title": "Junior Developer · RenoStar ICT Solution",
+        "description": "Developed a college Human Resource & Inventory Management System with Laravel and Vue.js, translating complex administrative processes into clear, responsive workflows. Applied RESTful and GraphQL API design, Swagger/OpenAPI documentation and testing practices to strengthen integration quality and maintainability. Also delivered digital employee records functionality and a Java Swing desktop ID Card Generator to streamline staff administration and ID issuance."
+      },
+      {
+        "year": "Mar 2020 – Jan 2022",
+        "title": "Senior Software Developer · RCNDC Software PLC",
+        "description": "Developed Adimera and Yehagere e-commerce and inventory platforms with Node.js, React/Next.js and Flutter features; integrated Stripe and PayPal payments."
+      },
+      {
+        "year": "Jan 2022 – Feb 2023",
+        "title": "Senior Full-Stack Developer & DevOps Engineer · Farka ICT Solution",
+        "description": "Delivered educational evaluation and suggestion platforms with Java/Spring Boot backend services, alongside Node.js-based OTT streaming solutions; contributed to secured APIs, automation and AWS ECS/Fargate deployment."
+      },
+      {
+        "year": "Feb 2023 – Aug 2026",
+        "title": "Senior Full-Stack Software Developer / Team Lead · Coreblue Software Development PLC",
+        "description": "Led the architecture and delivery of Adeyspices and Haipetland e-commerce webshops, combining Node.js/TypeScript, responsive React/Next.js, agentic AI-connected workflows, Swagger-tested REST APIs, WebSockets, payments, Trello/Scrum coordination, Docker and GitLab CI/CD."
+      }
+    ],
+    "mission": {
+      "title": "Mission",
+      "description": "My mission is to build intelligent software solutions powered by Artificial Intelligence, Machine Learning, and scalable cloud technologies that solve real-world problems and create measurable impact for businesses and society.",
+      "points": [
+        "Create intelligent applications with practical business value",
+        "Design scalable APIs and backend systems",
+        "Build data-driven solutions with strong engineering foundations",
+        "Contribute to meaningful innovation through technology"
+      ]
+    },
+    "passion": {
+      "title": "Passion",
+      "description": "I am passionate about Artificial Intelligence, Data Engineering, Backend Development, and building scalable systems that combine software engineering with machine learning to solve practical challenges.",
+      "points": [
+        "Exploring AI and machine learning to create real-world impact",
+        "Building robust, scalable applications and APIs",
+        "Continuously learning new tools and technologies",
+        "Creating solutions that make a meaningful difference"
+      ]
+    }
+  },
+  "hobbies": {
+    "intro": "I enjoy exploring emerging technologies, building AI-powered applications, contributing to personal projects, and continuously improving my software engineering skills. Beyond technology, I enjoy strategic games, reading, music, and staying physically active.",
+    "items": [
+      {
+        "name": "Building AI and Machine Learning applications",
+        "icon": "FaBrain"
+      },
+      {
+        "name": "Developing full-stack web applications with React, Next.js, and FastAPI",
+        "icon": "FaReact"
+      },
+      {
+        "name": "Exploring Data Engineering and Big Data technologies",
+        "icon": "FaDatabase"
+      },
+      {
+        "name": "Reading books on Artificial Intelligence, Software Engineering, and Personal Development",
+        "icon": "FaBook"
+      },
+      {
+        "name": "Playing chess and solving logical puzzles",
+        "icon": "FaChess"
+      },
+      {
+        "name": "Listening to music and playing musical instruments",
+        "icon": "FaGuitar"
+      },
+      {
+        "name": "Staying active through sports and fitness",
+        "icon": "FaFootballBall"
+      },
+      {
+        "name": "Learning about emerging technologies and innovation",
+        "icon": "FaBullhorn"
+      }
+    ]
+  },
+  "motivations": {
+    "intro": "I am passionate about building intelligent software solutions that solve real-world problems.\n\nMy motivation comes from continuous learning, creating meaningful technology, and making a positive impact through Artificial Intelligence, Full-Stack Development, and Data Engineering.",
+    "points": [
+      {
+        "text": "Building AI solutions that deliver measurable impact",
+        "description": "I enjoy turning bold ideas into practical products that create value for users and businesses.",
+        "icon": "FaBrain",
+        "gradient": "from-purple-600 via-violet-600 to-indigo-700"
+      },
+      {
+        "text": "Developing software that solves meaningful real-world problems",
+        "description": "My work is driven by creating tools that are useful, reliable, and genuinely helpful.",
+        "icon": "FaLaptopCode",
+        "gradient": "from-emerald-500 via-teal-500 to-cyan-600"
+      },
+      {
+        "text": "Continuously learning new technologies and best practices",
+        "description": "I stay curious by exploring modern tools, architectures, and engineering habits every week.",
+        "icon": "FaBookOpen",
+        "gradient": "from-sky-500 via-cyan-500 to-blue-600"
+      },
+      {
+        "text": "Collaborating with talented engineers and diverse teams",
+        "description": "Strong teams create stronger products, and I value thoughtful collaboration deeply.",
+        "icon": "FaUsers",
+        "gradient": "from-amber-500 via-orange-500 to-rose-500"
+      },
+      {
+        "text": "Solving complex engineering challenges through creativity",
+        "description": "I like breaking down difficult problems into clear, scalable, and elegant solutions.",
+        "icon": "FaLightbulb",
+        "gradient": "from-pink-500 via-fuchsia-500 to-purple-600"
+      },
+      {
+        "text": "Becoming an AI & Data Engineer capable of building intelligent systems",
+        "description": "I am growing toward creating end-to-end solutions that connect data, models, and product experience.",
+        "icon": "FaChartLine",
+        "gradient": "from-cyan-500 via-blue-500 to-indigo-600"
+      },
+      {
+        "text": "Contributing to open-source projects and the developer community",
+        "description": "I believe knowledge grows faster when it is shared openly and generously.",
+        "icon": "FaCodeBranch",
+        "gradient": "from-lime-500 via-emerald-500 to-green-600"
+      },
+      {
+        "text": "Creating software that empowers people and businesses",
+        "description": "The best technology is the kind that helps others move faster, think smarter, and perform better.",
+        "icon": "FaProjectDiagram",
+        "gradient": "from-blue-500 via-sky-500 to-cyan-600"
+      },
+      {
+        "text": "Delivering scalable, reliable, and high-quality software",
+        "description": "I care about maintainability, clarity, and long-term impact as much as launch speed.",
+        "icon": "FaShieldAlt",
+        "gradient": "from-slate-500 via-slate-600 to-slate-700"
+      }
+    ]
+  },
+  "socials": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/@YemaneGe",
+      "hoverColor": "hover:text-blue-600"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@banaTubes",
+      "hoverColor": "hover:text-red-600"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yemane-gebru-0b2950348/",
+      "hoverColor": "hover:text-blue-700"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/yemanegebre",
+      "hoverColor": "hover:text-gray-900"
+    }
+  ]
+}
